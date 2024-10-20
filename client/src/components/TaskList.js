@@ -45,7 +45,7 @@ const TaskList = observer(({ tasks }) => {
     }
     handleCloseModalEdit();
   };
-  console.log(new Date())
+
   const handleTaskClick = (task) => {
     setSelectedTask(task);
     handleShowModalEdit();
