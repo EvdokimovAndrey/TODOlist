@@ -22,3 +22,18 @@ http://147.45.159.200:3000/ <br>
 Контакт для оперативного реагирования на проблемы: <br>
 https://t.me/@AndrewBtv <br>
 
+## Установка
+Сервер:<br>
+```javascript
+npm install
+```javascript
+```
+npm run dev
+```javascript
+Клиент:<br>
+```javascript
+npm install
+```
+```javascript
+npm start
+```
