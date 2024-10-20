@@ -20,7 +20,7 @@ http://147.45.159.200:3000/ <br>
 | sokolov.v.u   | root          |Пользователь|
 
 Контакт для оперативного реагирования на проблемы: <br>
-https://t.me/@AndrewBtv <br>
+https://t.me/AndrewBtv <br>
 
 ## Установка
 Сервер:<br>
