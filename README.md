@@ -26,10 +26,10 @@ https://t.me/@AndrewBtv <br>
 Сервер:<br>
 ```javascript
 npm install
-```javascript
 ```
-npm run dev
 ```javascript
+npm run dev
+```
 Клиент:<br>
 ```javascript
 npm install
@@ -37,3 +37,7 @@ npm install
 ```javascript
 npm start
 ```
+
+## Стек технологий
+- frontend: React + MobX + React Bootstrap;
+- backend: NodeJS + Express.js + PostgreSQL + Sequelize + JWT;
