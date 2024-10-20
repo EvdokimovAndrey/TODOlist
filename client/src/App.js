@@ -7,18 +7,18 @@ import { Context } from "./index";
 import { Spinner } from "react-bootstrap";
 
 const App = observer(() => {
-  const { user } = useContext(Context)
-  const [loading, setLoading] = useState(true)
+  const { user } = useContext(Context);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const token = localStorage.getItem('token');
     if (token) {
-      user.setIsAuth(true)
+      user.setIsAuth(true);
       user.setUser({});
-      setLoading(true)
+      setLoading(true);
     } else {
       user.setUser({});
-      user.setIsAuth(false)
+      user.setIsAuth(false);
     }
     setLoading(false);
   }, [])
