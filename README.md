@@ -40,4 +40,4 @@ npm start
 
 ## Стек технологий
 - frontend: React + MobX + React Bootstrap;
-- backend: NodeJS + Express.js + PostgreSQL + Sequelize + JWT;
+- backend: Node.js + Express.js + PostgreSQL + Sequelize + JWT;
